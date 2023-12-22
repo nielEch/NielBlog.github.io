@@ -1,0 +1,59 @@
+.environment{
+    position: relative;
+    left: 150px;
+    top: 150px;
+}
+.tourism{
+    position: relative;
+    left: 510px;
+    bottom:65px;
+}
+.textenv{
+    position: relative;
+    left: 150px;
+    top: 150px;
+    font-size: 25px;
+}
+.texttour{
+    position: relative;
+    left: 510px;
+    bottom: 65px;
+    font-size: 30px;
+}
+.history{
+    position: relative;
+    left: 875px;
+    bottom:250px ;
+
+}
+.historic{
+    position: relative;
+    width: 280px;
+    height: 175px;
+    left: auto;
+}
+.container{
+    position: relative;
+    font-size: 30px;
+    left: 890px;
+    bottom: 470px;
+}
+.niel{
+    position: relative;
+    font-size: 50px;
+    bottom: 300px;
+}
+.have{
+    position: relative;
+    font-size: 30px;
+    bottom: 300px;
+}
+.make{
+    position: relative;
+    font-size: 30px;
+    bottom: 300px;
+}
+.welcome{
+position: relative;
+bottom: 300px;
+}
